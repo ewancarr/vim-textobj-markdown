@@ -1,4 +1,4 @@
-call textobj#user#plugin('qmd', {
+call textobj#user#plugin('quarto', {
       \   'chunk': {
       \     'select-a-function': 'textobj#markdown#chunk#af',
       \     'select-a': '<buffer>af',
